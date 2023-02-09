@@ -26,7 +26,7 @@ Output: 9 -> for the sequence: A, A, A, Ctrl-A, Ctrl-C, Ctrl-V, Ctrl-V
 1 <= N <= 50
 Answers will be in the range of 32-bit signed integer.
 
-- problem_2.py
+- **problem_2.py**
 You are the new owner of a wheat farm and you want to put in place an automated water distribution. You have multiple wheat fields and water towers dispatched to your farm. You want to know what’s the maximum distance between a field and a water tower for buying the right water pump: not too powerful because it's too expensive and also not too weak.
 You can modelize fields and water towers by 2 lists of integers, each integer representing the position. You can assume the field and water towers are in the same “line”. The maximum distance between a field and a tower will be the pump power needed.
 Write a function that returns the max power needed for the list of fields and water towers.
