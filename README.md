@@ -1,2 +1,5 @@
-# Intern_developer-assistant
-A repo for the technical problems 
+
+## TECHNICAL ASSESSMENT QUESTIONS
+- problem_o.py 
+- problem_1.py
+- problem_2.py
